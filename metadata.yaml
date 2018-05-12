@@ -1,0 +1,26 @@
+_repo: History-of-the-National-Flag-of-the-United-States-of-America_39823
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39823-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hamilton, Schuyler
+    birthdate: 1822
+    deathdate: 1903
+    gutenberg_agent_id: '40252'
+    url: http://www.gutenberg.org/2009/agents/40252
+description: ''
+gutenberg_issued: '2012-05-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39823'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'CR'
+- !lcsh 'Flags -- United States'
+title: History of the National Flag of the United States of America
+url: http://www.gutenberg.org/ebooks/39823
